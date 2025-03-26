@@ -15,7 +15,7 @@ Removing the Bank Account
 POST :- http://localhost:8080/api/accounts
         Body:-
 				{
-				"accountHolderName":"Rani",
+				"accountHolderName":"AAA",
 				"balance":100000
 				}
 
